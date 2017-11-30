@@ -1,0 +1,41 @@
+<svg width="311px" height="358px" viewBox="473 840 311 358" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.868 24 310.006 24 310.006 21 0.868 21"/>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="309.138" height="3" fill="white">
+            <use xlink:href="#path-1"/>
+        </mask>
+    </defs>
+    <g id="Iphone" opacity="0.6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(473.000000, 842.000000)">
+        <use id="Fill-17" stroke="#F37072" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"/>
+        <path d="M11,210.998384 L11,65.0016161 C11,41.8047641 29.8042628,23 52.99417,23 L259.00583,23 C282.19857,23 301,41.7974656 301,65.0016161 L301,210.998384" id="Rectangle-65" stroke="#F58A8B" stroke-width="3"/>
+        <path d="M23,223.006349 L23,91.9936514 L23,91.9936514 C23,88.1311644 26.1375382,85 30.0043614,85 L282.995639,85 C286.864041,85 290,88.1294112 290,91.9936514 L290,223.006349" id="Rectangle-66" stroke="#F58A8B" stroke-width="3"/>
+        <path d="M154.5,0.5 L154.5,11.9017544" id="Line" stroke="#F37072" stroke-width="3" stroke-linecap="square"/>
+        <path d="M154.5,21.5 L154.5,32.9017544" id="Line" stroke="#F37072" stroke-width="3" stroke-linecap="square"/>
+        <path d="M154.5,40.5 L154.5,51.9017544" id="Line" stroke="#F37072" stroke-width="3" stroke-linecap="square"/>
+        <path d="M154.5,59.5 L154.5,70.9017544" id="Line" stroke="#F37072" stroke-width="3" stroke-linecap="square"/>
+        <path d="M154.5,81.5 L154.5,92.9017544" id="Line" stroke="#F37072" stroke-width="3" stroke-linecap="square"/>
+        <path d="M154.5,101.5 L154.5,112.901754" id="Line" stroke="#F37072" stroke-width="3" stroke-linecap="square"/>
+        <path d="M154.5,121.5 L154.5,132.901754" id="Line" stroke="#F37072" stroke-width="3" stroke-linecap="square"/>
+        <path d="M154.5,140.5 L154.5,151.901754" id="Line" stroke="#F37072" stroke-width="3" stroke-linecap="square"/>
+        <path d="M154.5,161.5 L154.5,172.901754" id="Line" stroke="#F37072" stroke-width="3" stroke-linecap="square"/>
+        <path d="M154.5,181.5 L154.5,192.901754" id="Line" stroke="#F37072" stroke-width="3" stroke-linecap="square"/>
+        <path d="M154.5,202.5 L154.5,213.901754" id="Line" stroke="#F37072" stroke-width="3" stroke-linecap="square"/>
+        <path d="M154.5,221.5 L154.5,232.901754" id="Line" stroke="#F37072" stroke-width="3" stroke-linecap="square"/>
+        <path d="M154.5,240.5 L154.5,251.901754" id="Line" stroke="#F37072" stroke-width="3" stroke-linecap="square"/>
+        <path d="M154.5,262.5 L154.5,273.901754" id="Line" stroke="#F37072" stroke-width="3" stroke-linecap="square"/>
+        <path d="M154.5,282.5 L154.5,293.901754" id="Line" stroke="#F37072" stroke-width="3" stroke-linecap="square"/>
+        <path d="M154.5,302.5 L154.5,313.901754" id="Line" stroke="#F37072" stroke-width="3" stroke-linecap="square"/>
+        <path d="M154.5,321.5 L154.5,332.901754" id="Line" stroke="#F37072" stroke-width="3" stroke-linecap="square"/>
+        <path d="M154.5,342.5 L154.5,353.901754" id="Line" stroke="#F37072" stroke-width="3" stroke-linecap="square"/>
+        <path d="M12.5,12.5 L12.5,189.525421" id="Line" stroke="#F58A8B" stroke-width="3" stroke-linecap="square"/>
+        <path d="M301.5,12 L301.5,189" id="Line" stroke="#F58A8B" stroke-width="3" stroke-linecap="square"/>
+        <path d="M10,94 L10,112.360001" id="Line" stroke="#F58A8B" stroke-width="3" stroke-linecap="square"/>
+        <path d="M10,138 L10,174.283604" id="Line" stroke="#F58A8B" stroke-width="3" stroke-linecap="square"/>
+        <path d="M304,138 L304,174.283604" id="Line" stroke="#F58A8B" stroke-width="3" stroke-linecap="square"/>
+        <path d="M136.5,59.5 L173.513512,59.5" id="Line" stroke="#F58A8B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle id="Oval-44" fill="#F58A8B" cx="117" cy="59" r="4"/>
+        <circle id="Oval-44" fill="#F58A8B" cx="154.5" cy="43.5" r="4.5"/>
+    </g>
+</svg>

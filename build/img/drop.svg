@@ -1,0 +1,23 @@
+<svg width="163px" height="149px" viewBox="-2 -1 163 149" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(5.000000, 3.031000)" stroke="#1E1E1E" stroke-width="3" stroke-linecap="square">
+            <path d="M1.5,7.469 L1.5,132.949003" id="Line"/>
+            <path d="M1.5,7.5 L145.919998,7.5" id="Line"/>
+            <path d="M1.5,132.5 L145.919998,132.5" id="Line"/>
+            <path d="M146,7 L146,132.480003" id="Line"/>
+            <path d="M74.5,1.469 L74.5,141.469" id="Line"/>
+        </g>
+        <g id="Group-19" transform="translate(0.000000, 0.031000)">
+            <circle id="Oval-28" stroke="#1E1E1E" stroke-width="3" cx="114.5" cy="47.5" r="35.5"/>
+            <circle id="Oval-28" stroke="#1E1E1E" stroke-width="3" cx="44.5" cy="47.5" r="35.5"/>
+            <path d="M158.5,68.469 L69.5,143.469" id="Line" stroke="#1E1E1E" stroke-width="3" stroke-linecap="square"/>
+            <path d="M89.5,68.5 L0.5,143.5" id="Line" stroke="#1E1E1E" stroke-width="3" stroke-linecap="square" transform="translate(45.000000, 106.000000) scale(-1, 1) translate(-45.000000, -106.000000) "/>
+            <path d="M1.5,92.469 L117.5,1.469" id="Line" stroke="#1E1E1E" stroke-width="3" stroke-linecap="square"/>
+            <path d="M41.5,92.469 L157.5,1.469" id="Line" stroke="#1E1E1E" stroke-width="3" stroke-linecap="square" transform="translate(99.500000, 46.969000) scale(-1, 1) translate(-99.500000, -46.969000) "/>
+            <path d="M44.9658712,12.2444443 C24.8838982,12.2444443 8.54590281,28.5754135 8.54590281,48.6483527 C8.54590281,55.8080825 10.6236598,62.7379541 14.5543344,68.685157 L14.6286117,68.8076142 C31.102113,98.0618304 73.2022875,131.446467 79.4114685,134 C86.7468541,130.619379 150,80.8134361 150,50.800387 C150,49.8157109 149.918696,48.8792146 149.757093,48.0190031 L149.723969,47.7008152 C149.216073,27.818588 133.224371,12.2444443 113.316046,12.2444443 C103.745315,12.2444443 93.1628071,20.4119364 86.8402026,25.2931597 C82.7479247,28.4509488 81.0244905,29.7337379 79.4586447,29.7337379 C78.0684546,29.7337379 76.5919423,28.6757882 72.5267656,25.6163663 C65.8809544,20.6146933 54.7574265,12.2444443 44.9658712,12.2444443" id="Fill-17" stroke="#F1494C" stroke-width="4"/>
+        </g>
+    </g>
+</svg>
